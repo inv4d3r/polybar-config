@@ -1,0 +1,3 @@
+[submodule "polybar-yubikey"]
+	path = polybar-yubikey
+	url = https://github.com/inv4d3r/polybar-yubikey
